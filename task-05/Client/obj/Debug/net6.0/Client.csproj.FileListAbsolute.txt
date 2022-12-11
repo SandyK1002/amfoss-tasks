@@ -1,0 +1,5 @@
+/home/sandeep/tasks-04/task-05/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/sandeep/tasks-04/task-05/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandeep/tasks-04/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/sandeep/tasks-04/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/sandeep/tasks-04/task-05/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
